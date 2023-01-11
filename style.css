@@ -1,0 +1,34 @@
+.card-header{
+     text-align: center;
+     height: 64px;
+    
+}
+
+img{
+    width: 319px;
+    height: 190px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.card-text{
+    margin-top: 6px;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+button:not(:disabled) {
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .card{
+    margin-bottom: 21px;
+  }
+
+  h1{
+    text-align: center;
+  }
